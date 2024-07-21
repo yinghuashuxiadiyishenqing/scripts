@@ -2,7 +2,7 @@
  * 整合现有脚本的积分详情，有时脚本太多，还要一个个查看推送消息来看积分，故写了个脚本整合
  * 一天两次即可
  *
- *  @author Telegram@sudojia
+ * @author Telegram@sudojia
  * @site https://blog.imzjw.cn
  * @date 2024/06/29
  *
